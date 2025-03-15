@@ -1,0 +1,44 @@
+[
+  {
+    "trainId": "bacs",
+    "trainNo": "12345",
+    "seats": [
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0]
+    ],
+    "stationTimes": {
+      "bangalore": "13:00:00",
+      "jaipur": "13:50:00",
+      "delhi": "14:50:00"
+    },
+    "station": [
+      "nand",
+      "jaipur",
+      "delhi",
+      "pune",
+      "kham"
+    ]
+  },
+  {
+    "trainId": "xyz123",
+    "trainNo": "67890",
+    "seats": [
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0]
+    ],
+    "stationTimes": {
+      "mumbai": "10:30:00",
+      "pune": "11:45:00",
+      "nagpur": "14:00:00"
+    },
+    "station": [
+      "mumbai",
+      "pune",
+      "nagpur"
+    ]
+  }
+]
